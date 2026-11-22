@@ -4,7 +4,7 @@ A beginner-friendly machine learning project that predicts yearly medical insura
 
 ## Live Demo
 
-Try the web app here: `<your-streamlit-app-url>` (replace this after you deploy).
+Try the web app here: `https://medical-insurance-price-predictionml.streamlit.app/` 
 
 ## Overview
 
